@@ -1,7 +1,7 @@
 # Data-Analysis-with-Python-By-IBM
 Title: Data Analysis with Python\
 Instructor: IBM\
-Platform: Coursera\
+Platform: Coursera
 
 Week1: Importing Datasets
 Week2: Data Wrangling
